@@ -1,3 +1,5 @@
+#Test case
+#--------------------------
 #open web browser
 #open url (https://admin-demo.nopcommerce.com/login)
 #provide email (admin@yourstore.com)
