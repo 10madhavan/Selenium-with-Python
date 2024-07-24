@@ -1,14 +1,3 @@
-Introduction
+Selenium is an open-source tool used for automating web browsers. It provides a suite of tools for browser automation including Selenium WebDriver, Selenium IDE, and Selenium Grid.
 
-This repository contains a simple script to automate the login test process using Selenium in Python. 
-The script demonstrates how to use Selenium to open a web page, enter login credentials, and verify successful login.
-
-Test Automation:
-1.open chrome browser
-2.open url (https://admin-demo.nopcommerce.com/login)
-3.provide email (admin@yourstore.com)
-4.provide passwrd  (admin)
-5.click login
-6.capture actual title 
-7.verify expected title
-8.close browser
+Selenium WebDriver is a collection of open-source APIs which are used to automate the testing of a web application. It supports multiple browsers and platforms.
